@@ -1,0 +1,5 @@
+C:\TestPOC\DesignPatterns\AbstractDesignFactory\bin\Debug\AbstractDesignFactory.exe.config
+C:\TestPOC\DesignPatterns\AbstractDesignFactory\bin\Debug\AbstractDesignFactory.exe
+C:\TestPOC\DesignPatterns\AbstractDesignFactory\bin\Debug\AbstractDesignFactory.pdb
+C:\TestPOC\DesignPatterns\AbstractDesignFactory\obj\Debug\AbstractDesignFactory.exe
+C:\TestPOC\DesignPatterns\AbstractDesignFactory\obj\Debug\AbstractDesignFactory.pdb

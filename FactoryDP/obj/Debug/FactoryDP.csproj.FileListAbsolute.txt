@@ -1,0 +1,5 @@
+C:\TestPOC\DesignPatterns\FactoryDP\bin\Debug\FactoryDP.exe.config
+C:\TestPOC\DesignPatterns\FactoryDP\bin\Debug\FactoryDP.exe
+C:\TestPOC\DesignPatterns\FactoryDP\bin\Debug\FactoryDP.pdb
+C:\TestPOC\DesignPatterns\FactoryDP\obj\Debug\FactoryDP.exe
+C:\TestPOC\DesignPatterns\FactoryDP\obj\Debug\FactoryDP.pdb
