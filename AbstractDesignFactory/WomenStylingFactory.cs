@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractDesignFactory
+﻿namespace AbstractDesignFactory
 {
     public class WomenStylingFactory:StylingManufacturingFactory
     {
@@ -23,7 +17,9 @@ namespace AbstractDesignFactory
                 return new Shoes();
             }
             else
+            {
                 return null;
+            }
         }
     }
 }

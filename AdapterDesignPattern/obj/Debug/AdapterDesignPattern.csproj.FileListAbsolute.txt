@@ -1,0 +1,6 @@
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
+C:\TestPOC\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache

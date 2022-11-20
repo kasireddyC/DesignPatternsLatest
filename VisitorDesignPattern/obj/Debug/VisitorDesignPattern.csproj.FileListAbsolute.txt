@@ -3,3 +3,4 @@ C:\TestPOC\DesignPatterns\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.ex
 C:\TestPOC\DesignPatterns\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
 C:\TestPOC\DesignPatterns\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
 C:\TestPOC\DesignPatterns\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb
+C:\TestPOC\DesignPatterns\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csprojResolveAssemblyReference.cache
